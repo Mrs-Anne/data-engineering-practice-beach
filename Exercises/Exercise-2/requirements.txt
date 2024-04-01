@@ -1,2 +1,4 @@
 requests==2.27.1
 pandas==1.4.1
+#requests_html==2.31.0 # Added by Anne
+#lxml_html_clean==0.1.0 # Added by Anne
